@@ -1,0 +1,18 @@
+{"docName":"contributors","path":"~/design/Prototyping/contributors","relativeImagePath":"images","imagePath":"~/design/Prototyping/contributors/images","framerPath":"~/design/Prototyping/contributors/framer","viewInfoPath":"~/design/Prototyping/contributors/framer/views.contributors.js","logPaths":["/tmp/framerps.log","~/design/Prototyping/contributors/framer/framerps.log"]}
+
+Running for ~/design/Prototyping/contributors
+PROGRESS: 5.08474576271187
+PROGRESS: 8.47457627118644
+PROGRESS: 25.4237288135593
+PROGRESS: 33.8983050847458
+OAuthOverlay: Exporting image
+AuthoriseAccountButton: Exporting image
+PROGRESS: 38.9830508474576
+PROGRESS: 38.9830508474576
+6 views changed
+Skipping ~/design/Prototyping/contributors/index.html (exists)
+Skipping ~/design/Prototyping/contributors/app.js (exists)
+Skipping ~/design/Prototyping/contributors/framer/framer.js (exists)
+Skipping ~/design/Prototyping/contributors/framer/framerps.js (exists)
+
+SUCCESS: ~/design/Prototyping/contributors
