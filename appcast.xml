@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>TweetDeck Dogfood Updater</title>
+      <link></link>
+      <description>Most recent changes with links to updates.</description>
+      <language>en</language>      
+         <item>
+            <title>Version 3.7.1</title>
+			<description>
+				Minor changes. I'll get make to update this automatically
+			</description>
+            <pubDate>Thu, 22 May 2014 13:05:11 +1000</pubDate>
+            <sparkle:releaseNotesLink></sparkle:releaseNotesLink>
+            <enclosure url="http://cgit.twitter.biz/tweetdeck-mac/versions/x.zip" sparkle:version="3.7.1" length="1600000" type="application/octet-stream" sparkle:dsaSignature="" />
+         </item>
+   </channel>
+</rss>
