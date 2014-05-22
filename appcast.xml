@@ -11,7 +11,7 @@
 				Minor changes. I'll get make to update this automatically
 			</description>
             <pubDate>Thu, 22 May 2014 13:05:11 +1000</pubDate>
-            <sparkle:releaseNotesLink></sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>Testing an update!</sparkle:releaseNotesLink>
             <enclosure url="https://www.dropbox.com/s/j1asgemhp8xy1n9/TweetDeck.3.7.1.app.zip?dl=1" sparkle:version="3.7.1" length="6509098" type="application/octet-stream" />
          </item>
    </channel>
